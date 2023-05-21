@@ -21,7 +21,7 @@
 title: Future Home of the Skribisto Web Help
 email: john89521@github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the first time I am using Jekyll. This sh!t is crazy! 
+  This is the first time I am using Jekyll. This sh!t is crazy! It is very unpleasant. It takes a while for the site to refresh from GH to Pages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
