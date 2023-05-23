@@ -7,3 +7,5 @@ I need to place some lorem ipsum:
 ![Manufacturecat](https://github.com/john89521/john89521.github.io/blob/main/_img/manufacturetocat2.jpeg)
 ## 2nd image below
 ![manufacturetocat2](https://github.com/john89521/john89521.github.io/assets/13544800/dcb5071b-14c4-4250-83de-da1d9bd53dee)
+![696BB2D7-1D19-4979-B6B0-D6C739B87A28_4_5005_c](https://user-images.githubusercontent.com/13544800/220799020-84cddad4-2371-4287-ac0a-eacf6c6527be.jpeg)  
+
