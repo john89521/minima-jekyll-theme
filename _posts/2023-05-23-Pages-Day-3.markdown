@@ -1,6 +1,8 @@
 # Dealing with Pages: Day 3
 Once again, pages is proving to be a challenge.  
-With images, I believe you must upload from desktop to the md file. And I think it has to be jpeg. I will try a png:  
+With images, I believe you must upload from desktop to the md file. And I think it has to be jpeg.  
+I will try a png:  
 <img width="347" alt="Screenshot 2023-05-23 at 4 30 15 PM" src="https://github.com/john89521/john89521.github.io/assets/13544800/83828952-f0b7-4d54-a08d-71af55eb2951">  
 So png also work 😸  
+
 This stuff is great when it works! 
