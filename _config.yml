@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  john89521
 
 # Build settings
-remote_theme: architect
+theme: architect
 plugins:
   - jekyll-feed
 
