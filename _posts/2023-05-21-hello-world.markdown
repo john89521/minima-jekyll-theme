@@ -5,3 +5,5 @@ I need to place some lorem ipsum:
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
 ![Manufacturecat](https://github.com/john89521/john89521.github.io/blob/main/_img/manufacturetocat2.jpeg)
+## 2nd image below
+![manufacturetocat2](https://github.com/john89521/john89521.github.io/assets/13544800/dcb5071b-14c4-4250-83de-da1d9bd53dee)
